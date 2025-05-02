@@ -36,8 +36,12 @@ I'm specialized in **modeling ecological processes** using tools such as machine
   - CENTURY
   - Millenial
   - 3PG
-  - 
+- Remote sensing
+  - LiDAR
+  - DEM
 
+### Software
+ - R, Phyton, Anaconda, ggplotly, ArcGIS, QGIS, Google Earth Engine, PowerBI, AutoCAD, Paqueteria Microsoft, ENVI, ERDAS Imagine, IDRISI, Canva, Notion, LogSeq, Image, GapLight Analyzer
 ---
 
 📫 **Let's connect!**  
