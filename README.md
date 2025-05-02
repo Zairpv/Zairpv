@@ -1,4 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Zairpv/Zairpv/main/1690078293492.jpeg)
+📫 **Let's connect!**  
+I'm always open to collaboration or discussion on forest science, data modeling, or environmental research.
 
 ---
 # About me ✍️
@@ -41,10 +43,10 @@ I'm specialized in **modeling ecological processes** using tools such as machine
   - LiDAR
   - DEM
 
-### Software
+### ⚙️ Software
  - R, Phyton, Anaconda, ggplotly, ArcGIS, QGIS, Google Earth Engine, PowerBI, AutoCAD, Paqueteria Microsoft, ENVI, ERDAS Imagine, IDRISI, Canva, Notion, LogSeq, Image, GapLight Analyzer
 
-### Publications
+### 📝 Publications
 - **Pérez Vázquez, Z.R. (2025).**  
   *A multiframework approach for modeling soil carbon dynamics in managed forests. Stock estimations and future projections*  
   PhD dissertation
@@ -58,15 +60,16 @@ I'm specialized in **modeling ecological processes** using tools such as machine
   MsC dissertation 
   [Download PDF](http://colposdigital.colpos.mx:8080/xmlui/bitstream/handle/10521/4989/perez_vazquez_zr_mc_ciencias_forestal_2020.pdf?sequence=1)
 
+---
+# 🔗 Featured Repositories
+
+ - 📁 [Machine Learning for forestry applications]([https://github.com/Zairpv/Time-series-modeling---Climate](https://github.com/Zairpv/Machine-Learning-for-forestry-applications))  
+ Machine learning models applied to ecological and environmental data (forestry applications): Random Forest, XGBoost, SVM, neural networks among others.
+
 
 ---
 
-📫 **Let's connect!**  
-I'm always open to collaboration or discussion on forest science, data modeling, or environmental research.
-
----
-
-### 🎥 Featured Videos about machine learning applications
+## 🎥 Featured Videos about machine learning applications
 
 | Modeling Forest Carbon - SOMEREFO 2021 | Data Analysis in Ecology - NAFEW 2022 | 
 |------------------------|--------------------------|
