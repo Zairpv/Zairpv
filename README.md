@@ -1,4 +1,29 @@
-## Hi there 👋
+# 👋 Hello! I'm Zaira
+
+## 🌲 Ph.D. in Forest Sciences
+
+I'm specialized in **modeling ecological processes** using tools such as machine learning, statistical analysis, and geospatial data processing. I have **over seven years of experience** integrating and analyzing large volumes of environmental data, particularly in **managed forest ecosystems**.
+
+### 🔬 My work focuses on:
+- Soil carbon storage and stabilization
+- Forest biomass quantification
+- Wildfires and disturbance dynamics
+- Biodiversity and land-use change monitoring
+
+### 💻 Technical expertise:
+- Development of hybrid models integrating **geostatistics**, **machine learning**, and **process-based modeling** (R & Python)
+- Applied statistics for spatial and temporal analysis:
+  - Time series modeling
+  - Multivariate analysis
+  - Linear & nonlinear models
+  - Statistical inference
+  - Experimental design
+
+---
+
+📫 **Let's connect!**  
+I'm always open to collaboration or discussion on forest science, data modeling, or environmental research.
+
 
 <!--
 **Zairpv/Zairpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
