@@ -1,4 +1,5 @@
-![Banner](./1690078293492.jpg)
+![Banner](https://raw.githubusercontent.com/Zairpv/Zairpv/main/1690078293492.jpg)
+
 
 # About me ✍️
 
