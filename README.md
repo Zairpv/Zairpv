@@ -12,13 +12,17 @@ I'm specialized in **modeling ecological processes** using tools such as machine
 - Wildfires and disturbance dynamics
 - Biodiversity and land-use change monitoring
 - Forest management impacts
+- Model optimization
 
 ### 💻 Technical expertise:
 - Development of hybrid models integrating **geostatistics**, **machine learning**, and **process-based modeling** (R & Python)
   - Random forest
   - CART
   - Neural networks
-  - SVM 
+  - SVM
+  - Hibrid models
+  - Digital soil mapping
+  - Species distribution mapping
 - Applied statistics for spatial and temporal analysis:
   - Time series modeling
   - Multivariate analysis
@@ -26,6 +30,13 @@ I'm specialized in **modeling ecological processes** using tools such as machine
   - Statistical inference
   - Experimental design
   - Uncertainty assessments
+- Process-based models
+  - RothC
+  - Yasso
+  - CENTURY
+  - Millenial
+  - 3PG
+  - 
 
 ---
 
