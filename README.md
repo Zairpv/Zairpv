@@ -3,6 +3,13 @@
 I'm always open to collaboration or discussion on forest science, data modeling, or environmental research.
 
 ---
+# Featured Repositories 📍
+
+**1) Machine learning tools applied to ecological and environmental data (forestry applications): Random Forest modeling.**
+- 🔗 [Technical report - Web page of repository](https://zairpv.github.io/Machine-Learning-for-forestry-applications/)
+- 📁 [Machine Learning for forestry applications](https://github.com/Zairpv/Machine-Learning-for-forestry-applications)
+  
+---
 # About me ✍️
 
 ## 🌲 Ph.D. in Forest Sciences
@@ -59,13 +66,6 @@ I'm specialized in **modeling ecological processes** using tools such as machine
 *Modelación espaciotemporal del contenido de carbono en el mantillo de un bosque bajo manejo forestal*  
   MsC dissertation 
   [Download PDF](http://colposdigital.colpos.mx:8080/xmlui/bitstream/handle/10521/4989/perez_vazquez_zr_mc_ciencias_forestal_2020.pdf?sequence=1)
-
----
-# 🔗 Featured Repositories
-
-- 📁 [Machine Learning for forestry applications](https://github.com/Zairpv/Machine-Learning-for-forestry-applications)  
-  Machine learning models applied to ecological and environmental data (forestry applications): Random Forest, XGBoost, SVM, neural networks among others.
-
 
 ---
 
