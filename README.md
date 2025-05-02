@@ -63,8 +63,8 @@ I'm specialized in **modeling ecological processes** using tools such as machine
 ---
 # 🔗 Featured Repositories
 
- - 📁 [Machine Learning for forestry applications]([https://github.com/Zairpv/Time-series-modeling---Climate](https://github.com/Zairpv/Machine-Learning-for-forestry-applications))  
- Machine learning models applied to ecological and environmental data (forestry applications): Random Forest, XGBoost, SVM, neural networks among others.
+- 📁 [Machine Learning for forestry applications](https://github.com/Zairpv/Machine-Learning-for-forestry-applications)  
+  Machine learning models applied to ecological and environmental data (forestry applications): Random Forest, XGBoost, SVM, neural networks among others.
 
 
 ---
