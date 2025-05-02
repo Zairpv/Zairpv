@@ -69,7 +69,7 @@ I'm always open to collaboration or discussion on forest science, data modeling,
 ### 🎥 Featured Videos about machine learning applications
 
 | Modeling Forest Carbon - SOMEREFO 2021 | Data Analysis in Ecology - NAFEW 2022 | 
-|------------------------|--------------------------|----------------|
+|------------------------|--------------------------|
 | [![Video 1](https://img.youtube.com/vi/3QpGVWN3Rvs/0.jpg)](https://www.youtube.com/watch?v=3QpGVWN3Rvs) | [![Video 2](https://img.youtube.com/vi/IrTdfllAA6E/0.jpg)](https://www.youtube.com/watch?v=IrTdfllAA6E) | 
 
 <!--
