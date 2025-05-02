@@ -8,6 +8,9 @@ I'm always open to collaboration or discussion on forest science, data modeling,
 **1) Machine learning tools applied to ecological and environmental data (forestry applications): Random Forest modeling.**
 - 🔗 [Technical report - Web page of repository](https://zairpv.github.io/Machine-Learning-for-forestry-applications/)
 - 📁 [Machine Learning for forestry applications](https://github.com/Zairpv/Machine-Learning-for-forestry-applications)
+
+**2) Process-based model applied to soil carbon simulation (soil-forestry science application): RothC
+- 📁 [RothC-Process-based-modeling]([https://github.com/Zairpv/Machine-Learning-for-forestry-applications](https://github.com/Zairpv/RothC-Process-based-modeling.git))
   
 ---
 # About me ✍️
