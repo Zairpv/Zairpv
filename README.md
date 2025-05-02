@@ -1,5 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Zairpv/Zairpv/main/1690078293492.jpeg)
 
+---
 # About me ✍️
 
 ## 🌲 Ph.D. in Forest Sciences
@@ -42,11 +43,34 @@ I'm specialized in **modeling ecological processes** using tools such as machine
 
 ### Software
  - R, Phyton, Anaconda, ggplotly, ArcGIS, QGIS, Google Earth Engine, PowerBI, AutoCAD, Paqueteria Microsoft, ENVI, ERDAS Imagine, IDRISI, Canva, Notion, LogSeq, Image, GapLight Analyzer
+
+### Publications
+- **Pérez Vázquez, Z.R. (2025).**  
+  *A multiframework approach for modeling soil carbon dynamics in managed forests. Stock estimations and future projections*  
+  PhD dissertation
+
+- **Pérez Vázquez et al. (2021).**  
+  *Enfoque espacial para modelación de carbono en el mantillo de bosques bajo manejo forestal maderable*  
+  [Read article](https://doi.org/10.21829/myb.2021.2712122)
+
+- **Pérez Vázquez, Z.R. (2020).**  
+*Modelación espaciotemporal del contenido de carbono en el mantillo de un bosque bajo manejo forestal*  
+  MsC dissertation 
+  [Download PDF](http://colposdigital.colpos.mx:8080/xmlui/bitstream/handle/10521/4989/perez_vazquez_zr_mc_ciencias_forestal_2020.pdf?sequence=1)
+
+
 ---
 
 📫 **Let's connect!**  
 I'm always open to collaboration or discussion on forest science, data modeling, or environmental research.
 
+---
+
+### 🎥 Featured Videos about machine learning applications
+
+| Modeling Forest Carbon - SOMEREFO 2021 | Data Analysis in Ecology - NAFEW 2022 | 
+|------------------------|--------------------------|----------------|
+| [![Video 1](https://img.youtube.com/vi/3QpGVWN3Rvs/0.jpg)](https://www.youtube.com/watch?v=3QpGVWN3Rvs) | [![Video 2](https://img.youtube.com/vi/IrTdfllAA6E/0.jpg)](https://www.youtube.com/watch?v=IrTdfllAA6E) | 
 
 <!--
 **Zairpv/Zairpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
