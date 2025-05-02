@@ -10,7 +10,7 @@ I'm always open to collaboration or discussion on forest science, data modeling,
 - 📁 [Machine Learning for forestry applications](https://github.com/Zairpv/Machine-Learning-for-forestry-applications)
 
 **2) Process-based model applied to soil carbon simulation (soil-forestry science application): RothC**
-- 📁 [RothC-Process-based-modeling]([https://github.com/Zairpv/Machine-Learning-for-forestry-applications](https://github.com/Zairpv/RothC-Process-based-modeling.git))
+- 📁 [RothC-Process-based-modeling](https://github.com/Zairpv/Machine-Learning-for-forestry-applications)
   
 ---
 # About me ✍️
