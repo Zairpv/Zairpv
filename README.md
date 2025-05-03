@@ -18,7 +18,10 @@ I'm always open to collaboration or discussion on forest science, data modeling,
 
 **4) Geostatistics - Course - Spanish**
 - 🔗 [Reportes técnicos](https://github.com/Zairpv/Geostatistics---applied-to-forestry---Spanish-edition/tree/main/docs)
-  
+
+**5) Time series modeling - Course - Spanish**
+- 🔗[Reportes técnico](https://github.com/Zairpv/Time-series-modeling---Spanish/tree/main/docs)
+
 ---
 # About me ✍️
 
