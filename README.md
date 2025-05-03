@@ -13,7 +13,7 @@ I'm always open to collaboration or discussion on forest science, data modeling,
 - 📁 [RothC-Process-based-modeling](https://github.com/Zairpv/Machine-Learning-for-forestry-applications)
 
 **3) Multivariate statistical analyses**
-- 📂 [Multivariate-analyses_Environmental-applications](https://github.com/Zairpv/Multivariate-analyses_Environmental-applications)
+- 📂 [Multivariate-analysis---Spanish-version-](https://github.com/Zairpv/Multivariate-analysis---Spanish-version-)
   
 ---
 # About me ✍️
