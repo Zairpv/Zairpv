@@ -3,7 +3,7 @@
 I'm always open to collaboration or discussion on forest science, data modeling, or environmental research.
 
 ---
-# Featured Repositories 📍
+# Featured Repositories → Portfolio📍
 
 **1) Machine learning tools applied to ecological and environmental data (forestry applications): Random Forest modeling.**
 - 🔗 [Technical report - Web page of repository](https://zairpv.github.io/Machine-Learning-for-forestry-applications/)
