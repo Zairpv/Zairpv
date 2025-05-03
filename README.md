@@ -16,7 +16,7 @@ I'm always open to collaboration or discussion on forest science, data modeling,
 - 🔗 [Reportes técnicos](https://github.com/Zairpv/Multivariate-analysis---Spanish-version-/tree/main/docs)
 - 📂 [Multivariate-analysis---Spanish-version-](https://github.com/Zairpv/Multivariate-analysis---Spanish-version-)
 
-**4) Geostatistics - Course - Spanish 
+**4) Geostatistics - Course - Spanish**
 - 🔗 [Technical reports](https://github.com/Zairpv/Geostatistics---applied-to-forestry---Spanish-edition/tree/main/docs)
   
 ---
